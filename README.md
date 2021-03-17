@@ -8,7 +8,6 @@ Recuerden reconstruiir los módulos recuerden ejecutar:
 
 ```
 npm install 
-
 ```
 
 Y para reconstruir el build:
